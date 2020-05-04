@@ -63,4 +63,5 @@ nav ul {
 html, body {
     touch-action: none;
     position: fixed;
+    width: 100%;
 }

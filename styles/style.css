@@ -59,6 +59,8 @@ nav ul {
     /*color: gainsboro;*/
 }
 
-body {
+/*Prevent default scrolling behavior in Safari browsers*/
+html, body {
     touch-action: none;
+    position: fixed;
 }

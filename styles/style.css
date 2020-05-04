@@ -29,6 +29,10 @@
     color: gainsboro !important;
 }
 
+button:focus {
+    outline: none;
+}
+
 .w3-display-left {
     border-radius: 0 50% 50% 0;
     text-align: left;

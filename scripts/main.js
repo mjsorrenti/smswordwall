@@ -1,8 +1,9 @@
 var words = {text:["a","all","am","an","and","are","as","at","be","big","by","came","can","come",
-                  "did","do","find","for","from","get","go","had","have","he","help","here","his","I",
+                  "did","do", "each", "find","for","from","get","go","had","have","he","help","here",
+                  "his","how","I",
                   "in","is","it","like","look","love","make","me","my","new","no","not","of","on",
-                  "or","out","play","said","see","she","that","the","there","this","to","up","was","we",
-                   "were","when","will","with","what","yes","you","your"],
+                  "or","out","play","said","see","she","that","the","there","this","to","up","use"
+                   "was","we","were","when","will","with","what","yes","you","your"],
              numbers:["(1) one","(2) two","(3) three","(4) four","(5) five","(6) six","(7) seven",
                       "(8) eight","(9) nine","(10) ten"],
              colors:["red","green","yellow","blue","black","brown","pink","purple","white","orange"]};
